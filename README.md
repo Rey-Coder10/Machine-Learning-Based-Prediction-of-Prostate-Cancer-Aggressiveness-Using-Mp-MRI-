@@ -97,7 +97,7 @@ Key Techniques:
 
 Generated on: 2026-02-02
 Project: Machine Learning Based Prediction of Prostate Cancer Aggressiveness Prediction using mp-MRI
-Authors: Divyendu Kumar Mishra, Yadav Rahul Suresh Chandra
+Authors: Divyendu Kumar Mishra, Yadav Rahul Suresh Chandra(23001309007),M.Tech(CSE)
 University: Veer Bahadur Singh Purvanchal University, Jaunpur
 
 ═══════════════════════════════════════════════════════════════════
